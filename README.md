@@ -1,0 +1,2 @@
+# nodejs_notes_qazaq_tilinde
+nodejs_notes_qazaq_tilinde
